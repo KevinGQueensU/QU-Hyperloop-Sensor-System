@@ -1,3 +1,5 @@
+Vision object detection system developed for Hyperloop team as part of an APSC103 client project.
+
 # Current Status: COMPLETE
 2023-04-25
 - Added image storage from FA advice
