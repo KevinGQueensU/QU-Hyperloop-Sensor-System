@@ -1,4 +1,4 @@
-Vision object detection system developed for Hyperloop team as part of an APSC103 client project.
+Vision object detection system developed for the Queen's University Hyperloop team during an Engineering Design course (APSC103).
 
 # Current Status: COMPLETE
 2023-04-25
